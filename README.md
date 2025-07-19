@@ -193,7 +193,7 @@ class HetLathiya:
   
 ### 💭 *"Building scalable solutions, one API at a time"*
 
-![Snake Animation](https://github.com/het875/het875/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/het875/het875/output/github-contribution-grid-snake.svg)
 
 **⭐ Star my repositories if you find them interesting!**
 
