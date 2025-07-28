@@ -20,7 +20,7 @@ class HetLathiya:
     def __init__(self):
         self.name = "Het Lathiya"
         self.role = "Python Software Developer"
-        self.location = "Surat, Gujarat, India"
+        self.location = "Gujarat, India"
         self.current_company = "ANV Tech"
         self.languages = ["Python", "C", "C++", "SQL"]
         self.specialization = [
@@ -91,30 +91,6 @@ class HetLathiya:
 
 ---
 
-## 💼 Professional Experience
-
-### 🏢 **ANV Tech** - Python Software Developer *(Mar 2025 - Present)*
-```
-🔸 Architecting modular APIs for FinTech platforms using Django & FastAPI
-🔸 Building real-time stock alert systems with webhook integration
-🔸 Implementing fraud detection algorithms in microservices architecture
-🔸 Automating IPO data scraping with advanced compression handling
-```
-
-### 🏢 **Daos Infotech** - Python Software Developer *(Jul 2024 - Mar 2025)*
-```
-🔸 Developed comprehensive service management system for water purifier companies
-🔸 Integrated WhatsApp API for automated communication workflows
-🔸 Designed PostgreSQL schema for service tracking and customer feedback
-```
-
-### 🏢 **Sixty13 Web Solutions** - Python Software Developer *(Feb 2024 - Jun 2024)*
-```
-🔸 Led backend development for hotel suite management platform
-🔸 Implemented JWT-based authentication with role-based access control
-🔸 Built competitive pricing scrapers for market analysis
-```
-
 ---
 
 ## 🚀 Featured Projects
@@ -179,11 +155,11 @@ class HetLathiya:
 
 <div align="center">
   
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hetglathiya875@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/het-lathiya-83a310281)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/het875)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hetlathiya875/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/hetglathiya875)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hetglathiya875@gmail.com)
 
 </div>
 
