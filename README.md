@@ -164,16 +164,21 @@ class HetLathiya:
 </div>
 
 ---
-
+  
 <div align="center">
   
 ### 💭 *"Building scalable solutions, one API at a time"*
 
-![Snake Animation](https://raw.githubusercontent.com/het875/het875/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/het875/het875/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/het875/het875/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/het875/het875/output/github-contribution-grid-snake.svg">
+</picture>
 
 **⭐ Star my repositories if you find them interesting!**
 
 </div>
+
 
 ---
 
