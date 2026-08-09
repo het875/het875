@@ -1,8 +1,8 @@
 # Hi there, I'm Het Lathiya! 👋
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&lines=Python+Software+Developer;Backend+API+Specialist;FinTech+%26+Web+Scraping+Expert;Django+%7C+FastAPI+Enthusiast)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E96F7&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Real-Time+Systems+%26+Low-Latency+Pipelines;AI%2FML+Engineer+%7C+XGBoost+%2C+LightGBM;Web+Scraping+%26+Data+Engineering+Specialist)
 
 </div>
 
@@ -19,32 +19,28 @@
 class HetLathiya:
     def __init__(self):
         self.name = "Het Lathiya"
-        self.role = "Python Software Developer"
+        self.role = "Backend Software Engineer"
         self.location = "Gujarat, India"
-        self.current_company = "ANV Tech"
-        self.languages = ["Python", "C", "C++", "SQL"]
+        self.languages = ["Python", "Go", "SQL", "C++"]
         self.specialization = [
-            "Backend Development", 
-            "REST APIs", 
-            "FinTech Systems",
-            "Web Scraping",
-            "Real-time Data Processing"
+            "Real-Time & Low-Latency Systems",
+            "AI/ML — XGBoost, LightGBM, Monte Carlo Simulation",
+            "Large-Scale Web Scraping & Data Engineering",
+            "Backend APIs — FastAPI, Django, Microservices"
         ]
-        
+
     def get_current_focus(self):
         return [
-            "Building scalable microservices architecture",
-            "Developing real-time trading systems",
-            "Implementing fraud detection algorithms",
-            "Optimizing API performance"
+            "Decoding high-throughput real-time data feeds",
+            "Building ML pipelines for predictive analytics",
+            "Designing distributed, fault-tolerant scraping systems",
+            "Optimizing backend systems for low-latency performance"
         ]
 ```
 
-- 🔭 Currently working on **FinTech platforms** and **real-time stock alert systems**
-- 🌱 Exploring **Kafka**, **Redis**, and **Advanced Microservices Architecture**
-- 💼 **2+ years** of experience in Python backend development
-- 🏆 Built **6+ major projects** including hotel management and IPO data analysis systems
-- 💡 Passionate about solving complex problems with clean, efficient code
+- 🧠 Focused on **real-time data systems**, **ML-driven analytics**, and **large-scale web scraping infrastructure**
+- ⚙️ Backend engineering across **FastAPI**, **Django**, and **microservices architecture**
+- 🌱 Currently exploring **Kafka**, **advanced distributed systems**, and **low-latency C++**
 - 📧 Reach me at: **hetglathiya875@gmail.com**
 
 ---
@@ -53,43 +49,45 @@ class HetLathiya:
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Frameworks & Libraries**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### **Backend & Real-Time Systems**
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+### **Web Scraping & Automation**
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTTPX](https://img.shields.io/badge/HTTPX-0A66C2?style=for-the-badge&logo=python&logoColor=white)
 
-### **Data Science & Scraping**
+### **AI / ML & Data Analytics**
+![XGBoost](https://img.shields.io/badge/XGBoost-EB0029?style=for-the-badge&logo=python&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
-![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### **DevOps & Tools**
+### **Databases & Caching**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### **DevOps, Security & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth2.0-3C4858?style=for-the-badge&logo=auth0&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
----
 
 ---
 
@@ -97,21 +95,25 @@ class HetLathiya:
 
 <div align="center">
 
-### 🏨 Hotel Management System
-**Tech Stack:** Django • React • MySQL • REST APIs  
-*Complete hotel platform with booking, HR, reporting, and analytics modules*
+### ⚡ Live Market Feed → AI Prediction Pipeline
+**Tech Stack:** Go • Python • WebSocket • FastAPI • LightGBM • XGBoost • Monte Carlo
+*Low-latency engine decoding live binary market feeds tick-by-tick across multiple segments, computing live Greeks and top strike prices, and streaming structured output straight into ML prediction models.*
 
-### 💧 Water Purifier Service Management
-**Tech Stack:** Django • React • MySQL • QR Code Integration  
-*Full-fledged system with service tracking, customer feedback, and zone-based scheduling*
+### 🖥️ Distributed Server Health Monitoring & Orchestration Platform
+**Tech Stack:** Python • FastAPI • MongoDB • Lightweight Agents
+*Centralized infrastructure platform for remote deployment, heartbeat-based health monitoring, centralized logging, and secure remote start/stop/restart operations with automatic recovery and execution auditing.*
 
-### 📊 NSE Data Scraper & API System
-**Tech Stack:** FastAPI • MongoDB • Docker • Scrapy • Selenium  
-*Enterprise-grade scraping service for NSE India with async APIs and authentication*
+### 🌐 Enterprise Financial Data Collection Platform
+**Tech Stack:** Python • Scrapy • Playwright • Selenium • HTTPX • MongoDB • Redis
+*Large-scale, asynchronous scraping infrastructure with anti-bot handling, session management, and ETL processing, built for high-volume financial and market data collection.*
 
-### 💰 IPO Data Analysis System
-**Tech Stack:** Python • SQL Server • BeautifulSoup  
-*Robust data pipeline with deduplication and trend analysis capabilities*
+### 📄 Financial Document Intelligence Platform
+**Tech Stack:** Python • PyMuPDF • pdfplumber • Camelot • OCR • MongoDB
+*Large-scale document intelligence pipeline extracting structured data from financial PDFs, tables, scanned documents, and multi-column layouts using multi-threaded processing.*
+
+### 📰 Real-Time Financial News & Social Intelligence Platform
+**Tech Stack:** Python • Playwright • aiohttp • Redis • MongoDB • FinBERT • MiniLM
+*Distributed crawling platform for real-time news and social content discovery, deduplication, and NLP-based impact scoring for downstream analytics.*
 
 </div>
 
@@ -134,27 +136,10 @@ class HetLathiya:
 
 ---
 
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-| Certification | Platform | Date |
-|---------------|----------|------|
-| 🐍 **Python (Basic)** | HackerRank | Apr 2024 |
-| 🧩 **Problem Solving (Basic)** | HackerRank | Mar 2024 |
-| 🗄️ **SQL (Basic)** | HackerRank | Oct 2024 |
-| 📡 **Postman API Fundamentals** | LetsUpgrade | Apr 2024 |
-| 🔧 **Git & GitHub Bootcamp** | LetsUpgrade | Apr 2024 |
-| 🎓 **Python Course for Beginners** | Scaler | Apr 2024 |
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
-  
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hetglathiya875@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/het-lathiya-83a310281)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/het875)
@@ -164,10 +149,10 @@ class HetLathiya:
 </div>
 
 ---
-  
+
 <div align="center">
-  
-### 💭 *"Building scalable solutions, one API at a time"*
+
+### 💭 *"Building real-time systems, one byte at a time"*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/het875/het875/output/github-contribution-grid-snake-dark.svg">
@@ -178,7 +163,6 @@ class HetLathiya:
 **⭐ Star my repositories if you find them interesting!**
 
 </div>
-
 
 ---
 
